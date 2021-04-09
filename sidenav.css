@@ -1,0 +1,20 @@
+.sidenav{
+  width: 150px;
+  height: 100%;
+  background-color: black;
+  position: fixed;
+
+}
+
+.nav-links{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+  top: 30%;
+}
+.nav-links a{
+  padding-top: 20px;
+  text-decoration: none;
+  color: white;
+}
